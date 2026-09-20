@@ -7,6 +7,8 @@ published: true
 
 
 
+&nbsp;
+
 Forty seas static in a room, quiet motionless
 
 and yet I bring in something with me.
@@ -22,6 +24,8 @@ absorb the sound, cloaking me in 
 rushing movement. 
 
 
+
+&nbsp;
 
 A thin presence pressing outward
 
@@ -39,6 +43,8 @@ on the horizon, promises me. 
 
 
 
+&nbsp;
+
 Another, an inky, textured expanse
 
 looms below, and up from it,
@@ -54,6 +60,8 @@ I hover from frame to frame, my 
 Eyes each time, snapping to the centre.
 
 
+
+&nbsp;
 
 Wales flits in and out of view, 
 
@@ -71,6 +79,8 @@ something. 
 
 
 
+&nbsp;
+
 Alone in the room, I shift my 
 
 weight, one foot after the other,
@@ -87,6 +97,8 @@ turn the camera, to look back. 
 
 
 
+&nbsp;
+
 I cannot stay long or I’ll fall
 
 away into the brume. Inside at least
@@ -102,5 +114,7 @@ migratory panic, wells up and slowly
 quells as waves crest and roll 
 
 
+
+&nbsp;
 
 over passing cars.
