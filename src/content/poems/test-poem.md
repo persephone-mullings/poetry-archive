@@ -1,7 +1,7 @@
 ---
 title: Test Poem
 date: 2026-09-20
-published: false
+published: true
 ---
 This is a test poem.
 
