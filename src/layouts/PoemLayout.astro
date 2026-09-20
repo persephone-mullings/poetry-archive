@@ -1,0 +1,9 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { pageTitle, description } = Astro.props;
+---
+
+<BaseLayout pageTitle={pageTitle} description={description} contentClass="poem-page">
+  <slot />
+</BaseLayout>

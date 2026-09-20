@@ -1,0 +1,36 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const poems = (await getCollection("poems", ({ data }) => data.published)).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const formatDate = (date: Date) =>
+  new Intl.DateTimeFormat("en-GB", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  }).format(date);
+---
+
+<BaseLayout pageTitle="Poems" description="A list of published poems." contentClass="poem-index-page">
+  <section class="poem-list" aria-labelledby="poems-heading">
+    <h1 id="poems-heading">Poems</h1>
+
+    <ul>
+      {poems.map((poem) => (
+        <li>
+          <article class="poem-entry">
+            <h2 class="poem-title">
+              <a href={`/poems/${poem.id}/`}>{poem.data.title}</a>
+            </h2>
+            <p class="poem-date">
+              <time datetime={poem.data.date.toISOString()}>{formatDate(poem.data.date)}</time>
+            </p>
+          </article>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

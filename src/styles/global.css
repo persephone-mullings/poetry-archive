@@ -1,0 +1,206 @@
+:root {
+  --bg: #f7f3ee;
+  --paper: #fffdfb;
+  --ink: #1d1b1a;
+  --muted: #5f5855;
+  --line: rgba(29, 27, 26, 0.15);
+  --link: #3c4c53;
+  --link-hover: #222b30;
+  --accent: #665243;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--link-hover);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.page-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.site-header,
+.site-footer,
+.page-content {
+  width: min(100%, 72rem);
+  margin: 0 auto;
+  padding-inline: 1.25rem;
+}
+
+.site-header {
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  font-size: 1.05rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-content {
+  flex: 1;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+.site-footer {
+  padding-bottom: 2rem;
+  color: var(--muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  border-top: 1px solid var(--line);
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  line-height: 1.2;
+  margin-top: 0;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-size: clamp(2.25rem, 4vw, 4rem);
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+.intro,
+.poem-list,
+.poem-entry,
+.page-header {
+  max-width: 42rem;
+}
+
+.eyebrow {
+  margin-bottom: 0.75rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.75rem 1.1rem;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.poem-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+}
+
+.poem-list li + li {
+  margin-top: 1.5rem;
+}
+
+.poem-title {
+  margin-bottom: 0.25rem;
+  font-size: clamp(1.5rem, 2vw, 2.1rem);
+}
+
+.poem-date {
+  margin: 0;
+  color: var(--muted);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.92rem;
+}
+
+.crumbs {
+  margin-bottom: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.poem-entry {
+  padding-top: 0.5rem;
+}
+
+.poem-header h1 {
+  margin-bottom: 0.25rem;
+}
+
+.poem-body {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+  font-size: clamp(1.05rem, 1.4vw, 1.35rem);
+  line-height: 1.8;
+  font-family: Georgia, "Times New Roman", serif;
+  max-width: 36rem;
+}
+
+.poem-body p {
+  white-space: pre-line;
+  margin-bottom: 1.6rem;
+}
+
+.poem-body p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 640px) {
+  .top-nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .page-content {
+    padding-top: 1.5rem;
+  }
+}
