@@ -6,8 +6,9 @@ published: true
 ---
 *In response to Garry Fabian Miller’s ‘The Sea Horizon’* 
 
-  
 
+
+&nbsp;
 
 Forty seas static in a room, quiet motionless
 
@@ -23,8 +24,9 @@ absorb the sound, cloaking me in 
 
 rushing movement. 
 
-  
 
+
+&nbsp;
 
 A thin presence pressing outward
 
@@ -40,8 +42,9 @@ haze, but the faint city, knife-thin
 
 on the horizon, promises me. 
 
-  
 
+
+&nbsp;
 
 Another, an inky, textured expanse
 
@@ -57,8 +60,9 @@ I hover from frame to frame, my 
 
 Eyes each time, snapping to the centre.
 
-  
 
+
+&nbsp;
 
 Wales flits in and out of view, 
 
@@ -74,9 +78,9 @@ across the waters, looking for 
 
 something. 
 
-  
-  
 
+
+&nbsp;
 
 Alone in the room, I shift my 
 
@@ -92,8 +96,9 @@ and every sea. Bury the urge to 
 
 turn the camera, to look back. 
 
-  
 
+
+&nbsp;
 
 I cannot stay long or I’ll fall
 
@@ -109,7 +114,8 @@ migratory panic, wells up and slowly
 
 quells as waves crest and roll 
 
-  
 
+
+&nbsp;
 
 over passing cars.
