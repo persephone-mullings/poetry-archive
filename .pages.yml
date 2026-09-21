@@ -17,6 +17,11 @@ content:
         type: date
         required: true
 
+      - name: blurb
+        label: Blurb
+        type: string
+        required: false
+
       - name: published
         label: Published
         type: boolean
