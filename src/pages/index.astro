@@ -1,14 +1,91 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import "../styles/global.css";
+
+const poems = (await getCollection("poems", ({ data }) => data.published))
+  .sort((a, b) => {
+    const dateDifference = b.data.date.valueOf() - a.data.date.valueOf();
+
+    return dateDifference || a.data.title.localeCompare(b.data.title);
+  })
+  .slice(0, 6);
+
+const formatDate = (date: Date) => date.toISOString().slice(0, 10);
 ---
 
-<BaseLayout pageTitle="Home" description="A collection of poems." contentClass="home-page">
-  <section class="intro" aria-labelledby="site-title">
-    <p class="eyebrow">Poetry archive</p>
-    <h1 id="site-title">Persephone's Poems</h1>
-    <p>A collection of poems.</p>
-    <p>
-      <a href="/poems/" class="button-link">View poems</a>
-    </p>
-  </section>
-</BaseLayout>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="An archive of poems by Persephone Mullings." />
+    <title>Persephone Mullings — Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body id="top" class="archive-page">
+    <main class="archive-main">
+      <header class="archive-header">
+        <div class="monogram-wrap">
+          <img
+            alt="Persephone Mullings Monogram"
+            class="monogram-image"
+            src="/initials-monogram.png"
+          />
+        </div>
+        <h1>An archive of poems by<br /><em>Persephone Mullings</em></h1>
+      </header>
+
+      <div class="archive-rule"></div>
+
+      <section class="archive-section" aria-labelledby="recent-poems-heading">
+        <div class="archive-grid">
+          <div>
+            <h2 id="recent-poems-heading">Recent Poems</h2>
+          </div>
+
+          <div class="archive-list">
+            {poems.map((poem) => (
+              <article class="archive-entry">
+                <div class="archive-entry-heading">
+                  <h3>
+                    <a class="poem-link" href={`/poems/${poem.id}/`}>{poem.data.title}</a>
+                  </h3>
+                  <time datetime={poem.data.date.toISOString()}>{formatDate(poem.data.date)}</time>
+                </div>
+                {poem.data.blurb && <p>{poem.data.blurb}</p>}
+              </article>
+            ))}
+
+            <a class="poem-link all-poems-link" href="/poems/">All poetry →</a>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <footer class="archive-footer">
+      <div class="archive-footer-inner">
+        <div class="archive-grid archive-footer-grid">
+          <div>
+            <h2>Index</h2>
+          </div>
+          <nav class="archive-nav" aria-label="Archive navigation">
+            <a href="/">About</a>
+            <a class="index-pill" href="/poems/">Poems</a>
+            <a href="mailto:persephone@example.com">Email me</a>
+          </nav>
+        </div>
+
+        <div class="archive-footer-bottom">
+          <span>Archive © Persephone Mullings</span>
+          <a href="#top">go up ↑</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

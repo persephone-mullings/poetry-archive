@@ -12,6 +12,7 @@ const poems = defineCollection({
     title: z.string(),
     date: z.coerce.date(),
     published: z.boolean().default(false),
+    blurb: z.string().optional(),
   }),
 });
 

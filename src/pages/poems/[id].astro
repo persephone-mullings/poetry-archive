@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
-import PoemLayout from "../../layouts/PoemLayout.astro";
+import "../../styles/global.css";
 
 export async function getStaticPaths() {
   const poems = await getCollection("poems", ({ data }) => data.published);
@@ -14,29 +14,67 @@ export async function getStaticPaths() {
 const { poem } = Astro.props;
 const { Content } = await render(poem);
 
-const formatDate = (date: Date) =>
-  new Intl.DateTimeFormat("en-GB", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  }).format(date);
+const formatDate = (date: Date) => date.toISOString().slice(0, 10);
 ---
 
-<PoemLayout pageTitle={poem.data.title} description={`Poem: ${poem.data.title}`}>
-  <nav class="crumbs" aria-label="Breadcrumb">
-    <a href="/poems/">← Poems</a>
-  </nav>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={`Poem: ${poem.data.title}`} />
+    <title>Persephone Mullings — Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body id="top" class="reading-page">
+    <main class="reading-main">
+      <div class="reading-wrapper">
+        <article class="reading-canvas" aria-labelledby="poem-title">
+          <header class="reading-masthead">
+            <a href="/" aria-label="Persephone Mullings Archive" class="masthead-link">
+              <img
+                alt="Persephone Mullings Monogram"
+                class="monogram-image"
+                src="/initials-monogram.png"
+              />
+            </a>
+          </header>
 
-  <article aria-labelledby="poem-title">
-    <header class="poem-header">
-      <h1 id="poem-title">{poem.data.title}</h1>
-      <p class="poem-date">
-        <time datetime={poem.data.date.toISOString()}>{formatDate(poem.data.date)}</time>
-      </p>
-    </header>
+          <div class="reading-register">
+            <time datetime={poem.data.date.toISOString()}>{formatDate(poem.data.date)}</time>
+            <h1 id="poem-title">{poem.data.title}</h1>
+          </div>
 
-    <div class="poem-body">
-      <Content />
-    </div>
-  </article>
-</PoemLayout>
+          <div class="reading-poem">
+            <Content />
+          </div>
+        </article>
+      </div>
+    </main>
+
+    <footer class="archive-footer reading-footer">
+      <div class="archive-footer-inner">
+        <div class="archive-grid archive-footer-grid">
+          <div>
+            <h2>Index</h2>
+          </div>
+          <nav class="archive-nav" aria-label="Archive navigation">
+            <a href="/">About</a>
+            <a class="index-pill" href="/poems/">Poems</a>
+            <a href="mailto:persephone@example.com">Email me</a>
+          </nav>
+        </div>
+
+        <div class="archive-footer-bottom">
+          <span>Archive © Persephone Mullings</span>
+          <a href="#top">go up ↑</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

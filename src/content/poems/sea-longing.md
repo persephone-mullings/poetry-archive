@@ -2,6 +2,7 @@
 title: Sea-Longing
 date: 2026-09-20
 published: true
+blurb: "A meditation on distance, galleries, and the changing horizon."
 ---
 *In response to Garry Fabian Miller’s ‘The Sea Horizon’* 
 
