@@ -12,6 +12,8 @@ a few yards beyond my shot.
 
 
 
+&nbsp;
+
 Your triumphal splashing caught
 
 on footage but nothing 
@@ -22,6 +24,8 @@ nor your strong bounding paws.
 
 
 
+&nbsp;
+
 I place you gently, 
 
 in that shadow place with 
@@ -31,6 +35,8 @@ all those whose lives I never touched;
 skirting the edges of my frame.
 
 
+
+&nbsp;
 
 My eye, deep-seeking,
 
