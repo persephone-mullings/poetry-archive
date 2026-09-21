@@ -2,7 +2,7 @@
 title: Lens
 date: 2026-09-21
 blurb: Golden Lab, Bounding-keen...
-published: false
+published: true
 ---
 Golden Lab, Bounding-keen,
 
@@ -10,7 +10,6 @@ you leapt, fetch-frenzied, into the stream, just
 
 a few yards beyond my shot.
 
-  
 
 
 Your triumphal splashing caught
@@ -21,7 +20,6 @@ of your white-gold mane, 
 
 nor your strong bounding paws.
 
-  
 
 
 I place you gently, 
@@ -32,7 +30,6 @@ all those whose lives I never touched;
 
 skirting the edges of my frame.
 
-  
 
 
 My eye, deep-seeking,
