@@ -1,7 +1,6 @@
 ---
 title: Mould Killer Reverie
-date: 2026-09-21
-blurb: A walk in a park whose...
+date: 2023-06-21
 published: true
 ---
 A walk in a park whose 
