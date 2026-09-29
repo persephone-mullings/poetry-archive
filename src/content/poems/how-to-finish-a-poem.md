@@ -1,7 +1,6 @@
 ---
 title: How to finish a poem
-date: 2026-09-21
-blurb: I was taught to end a poem...
+date: 2022-04-21
 published: true
 ---
 I was taught to end a poem
