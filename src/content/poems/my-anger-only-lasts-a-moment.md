@@ -1,7 +1,6 @@
 ---
-title: My anger only lasts a moment.
-date: 2026-09-21
-blurb: My anger only lasts a moment....
+title: Chasing
+date: 2022-12-21
 published: true
 ---
 My anger only lasts a moment.
