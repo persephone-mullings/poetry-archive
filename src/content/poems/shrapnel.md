@@ -1,7 +1,6 @@
 ---
 title: Shrapnel
-date: 2026-09-21
-blurb: They would have given them to me ...
+date: 2022-09-21
 published: true
 ---
 They would have given them to me 
