@@ -1,7 +1,6 @@
 ---
 title: Llundain
-date: 2026-09-21
-blurb: I took a kind of comfort in rainfall,...
+date: 2023-03-21
 published: true
 ---
 I took a kind of comfort in rainfall,
