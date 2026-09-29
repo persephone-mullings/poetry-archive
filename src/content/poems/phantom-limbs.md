@@ -1,8 +1,8 @@
 ---
 title: Phantom Limbs
-date: 2026-09-21
+date: 2021-08-21
 blurb: Knitting phantom scarves for...
-published: true
+published: false
 ---
 Knitting phantom scarves for
 far away cousins once removed
