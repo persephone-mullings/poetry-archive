@@ -1,7 +1,6 @@
 ---
 title: Dandelion Wine
-date: 2026-09-21
-blurb: There are mugs at home, ...
+date: 2024-09-21
 published: true
 ---
 There are mugs at home, 
