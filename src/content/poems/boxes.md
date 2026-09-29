@@ -1,7 +1,6 @@
 ---
-title: Boxes
+title: Spare
 date: 2026-09-21
-blurb: The tides I put away, packed...
 published: true
 ---
 The tides I put away, packed
