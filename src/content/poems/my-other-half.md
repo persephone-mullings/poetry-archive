@@ -1,7 +1,6 @@
 ---
 title: My Other Half
-date: 2026-09-21
-blurb: Not still dead, not yet entirely ...
+date: 2023-09-21
 published: true
 ---
 Not still dead, not yet entirely 
