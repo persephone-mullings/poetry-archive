@@ -1,5 +1,5 @@
 ---
-title: Haunt
+title: Graduating
 date: 2025-01-29
 published: true
 ---
@@ -17,7 +17,6 @@ As I walked across the stage, I looked
 back to see if I could catch you from 
 the crowd, but you were lost in shadow
 behind all the stage lights. 
-
 
 After we’d said our goodbyes, we bumped 
 into each other again, outside the station.
