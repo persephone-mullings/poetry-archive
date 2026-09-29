@@ -1,7 +1,6 @@
 ---
 title: Inheritance
-date: 2026-09-21
-blurb: A bird rises into the grey....
+date: 2023-09-21
 published: true
 ---
 A bird rises into the grey.
