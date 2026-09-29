@@ -1,7 +1,7 @@
 ---
 title: Affects, Misc.
 date: 2026-09-21
-blurb: They told me you’d mentioned me before you died....
+blurb: For Mark Wilding
 published: true
 ---
 They told me you’d mentioned me before you died.
