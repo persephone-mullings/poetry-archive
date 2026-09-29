@@ -1,7 +1,6 @@
 ---
 title: Anti-Pigeon Spikes
-date: 2026-09-21
-blurb: I find you nested...
+date: 2022-09-21
 published: true
 ---
 I find you nested
