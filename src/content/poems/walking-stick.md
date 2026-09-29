@@ -1,8 +1,7 @@
 ---
 title: Walking Stick
-date: 2026-09-21
-blurb: I walk with you...
-published: true
+date: 2023-08-21
+published: false
 ---
 I walk with you
 in the spaces between
