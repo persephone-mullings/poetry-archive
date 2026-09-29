@@ -1,7 +1,6 @@
 ---
 title: Chaste
-date: 2026-09-21
-blurb: I've no art for the chaste kiss. I try, badly, to...
+date: 2024-09-21
 published: true
 ---
 I've no art for the chaste kiss. I try, badly, to 
