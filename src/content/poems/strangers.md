@@ -1,7 +1,6 @@
 ---
 title: Strangers
-date: 2026-09-21
-blurb: There in the crowded rumble of...
+date: 2024-07-21
 published: true
 ---
 There in the crowded rumble of
