@@ -1,7 +1,6 @@
 ---
 title: A fox in the earth
-date: 2026-09-21
-blurb: There’s a fox in the earth and she dreams of snow....
+date: 2022-08-01
 published: true
 ---
 There’s a fox in the earth and she dreams of snow.
