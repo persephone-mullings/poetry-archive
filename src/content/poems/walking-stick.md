@@ -1,7 +1,7 @@
 ---
 title: Walking Stick
 date: 2023-08-21
-published: false
+published: true
 ---
 I walk with you
 in the spaces between
