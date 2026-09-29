@@ -1,7 +1,6 @@
 ---
-title: After
-date: 2026-09-21
-blurb: Where is your lead?...
+title: Elegy
+date: 2021-07-21
 published: true
 ---
 Where is your lead?
