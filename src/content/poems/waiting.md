@@ -1,10 +1,9 @@
 ---
 title: Waiting
-date: 2026-09-21
-blurb: When I was young I...
+date: 2023-09-21
 published: true
 ---
-When I was young I
+As a child I always  
 was scared of crickets. We  
 would go often to some park
 or another — London’s full of 
