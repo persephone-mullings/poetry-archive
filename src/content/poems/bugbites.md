@@ -1,7 +1,6 @@
 ---
 title: Bugbites
-date: 2026-09-21
-blurb: Omenlike, the fleas came just...
+date: 2023-08-21
 published: true
 ---
 Omenlike, the fleas came just 
