@@ -1,22 +1,21 @@
 ---
 title: Fetch
-date: 2026-09-21
-blurb: I...
+date: 2022-09-21
 published: true
 ---
-I
-I arrive only in part. The melding sky
-washing blue and red could be sunrise
-and could be sunset. He looks like crying,
-but he won’t yet. My task needs nothing of me 
-but my face, I have nothing else to give.
-The limbs that brought me here ache 
-but it doesn’t matter. They’ll stop soon
+                                           I  
+I arrive only in part. The melding sky  
+washing blue and red could be sunrise  
+and could be sunset. He looks like crying,  
+but he won’t yet. My task needs nothing of me   
+but my face, I have nothing else to give.  
+The limbs that brought me here ache   
+but it doesn’t matter. They’ll stop soon  
 and this form’s not mine, only borrowed. 
 
 
 
-II
+                                           II
 
 I saw her then, lurking in the lilac light:
 my double. Expressionless and monochrome
