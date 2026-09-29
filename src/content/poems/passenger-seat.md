@@ -1,6 +1,6 @@
 ---
 title: Passenger Seat
-date: 2026-09-21
+date: 2024-09-21
 blurb: I have this dream sometimes...
 published: true
 ---
