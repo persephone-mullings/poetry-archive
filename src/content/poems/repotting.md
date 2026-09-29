@@ -1,7 +1,6 @@
 ---
 title: Repotting
-date: 2026-09-21
-blurb: Fingernails faintly green for ...
+date: 2024-04-21
 published: true
 ---
 Fingernails faintly green for 
