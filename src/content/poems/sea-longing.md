@@ -1,11 +1,9 @@
 ---
 title: "Sea-Longing "
-date: 2026-09-21
+date: 2022-09-21
 blurb: In response to Garry Fabian Miller’s ‘The Sea Horizon’
 published: true
 ---
-*In response to Garry Fabian Miller’s ‘The Sea Horizon’* 
-
 Forty seas static in a room, quiet motionless
 and yet I bring in something with me.
 Inchoate, restless, rearing at the very 
@@ -46,12 +44,12 @@ Restless, I keep still before each 
 and every sea. Bury the urge to 
 turn the camera, to look back. 
 
-I cannot stay long or I’ll fall
-away into the brume. Inside at least
-I’m fixed in place, but leaving 
-into daylight, the sound washes out
-leaving me empty and Zugunruhe, 
-migratory panic, wells up and slowly
+I cannot stay long or I’ll fall  
+away into the brume. Inside at least  
+I’m fixed in place, but leaving   
+into daylight, the sound washes out  
+leaving me empty and Zugunruhe,   
+migratory panic, wells up and slowly  
 quells as waves crest and roll 
 
 over passing cars.
