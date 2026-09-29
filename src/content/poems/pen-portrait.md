@@ -1,7 +1,6 @@
 ---
 title: Pen Portrait
-date: 2026-09-21
-blurb: Smudged with thumb prints, bleeding...
+date: 2022-07-21
 published: true
 ---
 Smudged with thumb prints, bleeding
