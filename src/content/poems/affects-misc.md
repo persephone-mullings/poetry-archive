@@ -1,6 +1,6 @@
 ---
 title: Affects, Misc.
-date: 2026-09-21
+date: 2023-07-21
 blurb: For Mark Wilding
 published: true
 ---
