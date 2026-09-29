@@ -2,16 +2,14 @@
 title: Cleave
 date: 2023-06-21
 blurb: For Pip
-published: false
+published: true
 ---
-For Emma
-
-Found in a field, an eagle, though freshly dead, bore a 
-weasel skull still locked in final bite into feathered throat. 
-A chance meeting, talons swoop, weasel bites, jaw cleaves. 
-It’s a fanged companionship, but it is, I suppose, 
-for life. A pact: silent and instinctive: 
-We’re in this together now. 
+Found in a field, an eagle, though freshly dead, bore a   
+weasel skull still locked in final bite into feathered throat.   
+A chance meeting, talons swoop, weasel bites, jaw cleaves.   
+It’s a fanged companionship, but it is, I suppose,   
+for life. A pact: silent and instinctive:   
+We’re in this together now.   
 It’s grim like blood turning cream feathers sunset pink. 
 
 So, will you too, cleave deep? Sink your claws, 
