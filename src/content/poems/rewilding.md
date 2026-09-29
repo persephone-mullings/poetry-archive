@@ -1,7 +1,6 @@
 ---
 title: Rewilding
-date: 2026-09-21
-blurb: I spent a lifetime...
+date: 2023-06-21
 published: true
 ---
 I spent a lifetime
