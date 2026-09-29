@@ -1,7 +1,6 @@
 ---
 title: Nocturnal
-date: 2026-09-21
-blurb: Sat in our silent company,...
+date: 2023-11-21
 published: true
 ---
 Sat in our silent company,
@@ -29,9 +28,9 @@ and each star now blends
 into white-grey cloud
 swirling in the dark air.
 
-You’re almost cast in golden
-streetlight. Me trudging home
-the dark alive with possibility,
+You’re almost cast in golden  
+streetlight. Me trudging home,  
+the dark is alive with possibility,  
 the cold air is breathy, keen.
 
 My half-self, is nocturnal 
