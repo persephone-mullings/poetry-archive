@@ -1,7 +1,6 @@
 ---
 title: Lens
-date: 2026-09-21
-blurb: Golden Lab, Bounding-keen...
+date: 2022-02-21
 published: true
 ---
 Golden Lab, Bounding-keen,
