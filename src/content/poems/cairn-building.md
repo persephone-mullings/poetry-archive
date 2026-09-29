@@ -1,7 +1,6 @@
 ---
 title: Cairn Building
-date: 2026-09-21
-blurb: Laid out, word by word...
+date: 2022-04-21
 published: true
 ---
 Laid out, word by word
