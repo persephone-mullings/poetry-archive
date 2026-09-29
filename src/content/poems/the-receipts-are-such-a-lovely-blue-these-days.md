@@ -1,7 +1,6 @@
 ---
 title: The Receipts are Such a Lovely Blue These Days
-date: 2026-09-21
-blurb: Waxier paper improves the crunch...
+date: 2022-05-01
 published: true
 ---
 Waxier paper improves the crunch 
