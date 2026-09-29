@@ -1,7 +1,6 @@
 ---
 title: Time Again
-date: 2026-09-21
-blurb: If I had my time again,...
+date: 2025-01-21
 published: true
 ---
 If I had my time again,
