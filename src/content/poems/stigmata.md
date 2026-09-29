@@ -1,7 +1,6 @@
 ---
 title: Stigmata
-date: 2026-09-21
-blurb: It’s hard to give up even now,...
+date: 2023-03-21
 published: true
 ---
 It’s hard to give up even now, 
