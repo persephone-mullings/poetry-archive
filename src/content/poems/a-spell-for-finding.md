@@ -1,7 +1,6 @@
 ---
 title: A Spell for Finding
-date: 2026-09-21
-blurb: Stay up late....
+date: 2022-08-21
 published: true
 ---
 Stay up late.
