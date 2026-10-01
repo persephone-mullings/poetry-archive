@@ -15,6 +15,6 @@ You looked at me, then, wild and hurt, and
 to remember, now, I could turn whole into 
 a dove or a new kind of flower, petals furling. 
 
-In the memory, I hold you, as I never did otherwise:
-close against my then-flat-chest, and I marvel now
-that I did not see it then, unfold myself to you.
+In the memory, I hold you, as I never did otherwise:  
+close against my then-flat-chest, and I marvel now  
+that I did not see it then- unfold myself to you.
