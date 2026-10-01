@@ -3,9 +3,9 @@ title: Achelois
 date: 2026-10-01
 published: true
 ---
-Looking back now, I have you by moonlight.
-We’d met under street lamps, impromptu, and
-to apologise, I have to step out from the glow.
+Looking back now, I have you by moonlight.  
+We’d met under street lamps, impromptu, and  
+to apologize, I have to step out from the glow.
 
 In shadow I’m not myself, not wearing
 my man’s clothes, even my apologies are lost
