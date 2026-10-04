@@ -14,7 +14,7 @@ thrown into abject clarity.
 plead, but to what end? What
 doubt is there? Besides,
 
-I’ve spent my whole life already  
-hiding. I rise from my shade and  
-follow into the world, remade  
+I’ve spent my whole life already
+hiding. I rise from my shade and
+follow into the world, remade
 and leave him behind.
