@@ -9,12 +9,12 @@ the door opens a crack, casting
 some stark shaft of light on me,
 thrown into abject clarity.
 
-‘**I’m so sorry**,’ He seems to say   
-‘**but it’s you**.’ I want to argue or  
-plead, but to what end? What  
+‘**I’m so sorry**,’ He seems to say
+‘**but it’s you**.’ I want to argue or
+plead, but to what end? What
 doubt is there? Besides,
 
-I’ve spent my whole life doing thus.
-I’m called and must go, I rise from
-my shade to follow into the World
-and leave him behind
+I’ve spent my whole life already
+Hiding. I rise from my shade and
+follow into the world, remade
+and leave him behind.
