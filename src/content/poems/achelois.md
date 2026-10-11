@@ -7,8 +7,8 @@ Looking back now, I have you by moonlight.
 We’d met under street lamps, impromptu, and
 to apologize, I have to step out from the glow.
 
-Under shadow, we're unseen together, known to
-eachother by feel: soft scarf against my cheek.
+Under shadow, we're unseen together, known to  
+each other by feel: scarf soft against my cheek.  
 By night, I can drop my man's costume, a little.
 
 You looked at me with eyes wild and hurt, and
